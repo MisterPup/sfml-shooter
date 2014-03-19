@@ -1,0 +1,5 @@
+#!/bin/sh
+g++ -Wall -c collision.cpp -std=c++11
+g++ -Wall -c main.cpp -std=c++11
+g++ -o main main.o collision.o -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+#g++ main.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system -std=c++11

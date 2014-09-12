@@ -7,3 +7,6 @@ All the code written by me is contained in a single file. Also it can be written
 The collision code is made by LaurentGomila:
 https://github.com/LaurentGomila
 Sprites and sounds are not mine, they belong to the web (thank you guys :D) 
+
+Here is a video of the game in action
+https://www.dropbox.com/s/guv1q3lbpzvgcwy/new-shooter.mkv?dl=0
